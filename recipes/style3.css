@@ -1,0 +1,33 @@
+body {background-color:whitesmoke;
+     font-family:sans-serif, Arial, Helvetica;
+     max-width:800px;
+     margin-top:20px;
+     margin:auto;
+     margin-bottom: 20px;}
+
+h1, .description, .ingredient, .steps, .enjoy {color:burlywood}
+
+h1 {font-family:cursive;
+   font-size: 80px;
+   text-align:center;}
+
+.description {text-align:center;
+             font-size:40px;
+             margin-top: 30px;
+             margin-bottom:30px;}
+
+.steps, .enjoy, .ingredient {font-size:28px;}
+
+img {display:block;
+    margin-bottom:30px;
+    margin:auto;
+    border-radius:17px;}
+
+a {color: #008080;
+  margin-bottom: 30px;
+  font-weight: bold;
+  font-size:1.5em;
+  text-decoration:none;}
+
+a:hover {color: #d2691e;
+        text-decoration:underline;}
