@@ -23,7 +23,7 @@ h1 {color:teal;
 
 img {display:block;
     margin:auto;
-    border-radius:10px;
+    border-radius:15px;
     margin-top:30px;
     margin-bottom:20px;
     box-shadow:#333;}
@@ -33,4 +33,10 @@ ul {list-style-type: none;
 
 .l1 {margin-bottom:10px;
     font-size:30px;}
+
+a {color:rgb(85, 172, 85);
+   text-decoration:none;}
+
+a:hover {color: #ff6600;
+        text-decoration:underline;}
 
