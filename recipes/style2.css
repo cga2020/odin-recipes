@@ -1,0 +1,60 @@
+body {background-color: rgba(255, 255, 255, 0.863);
+     font-family:sans-serif, Arial, Helvetica;
+     line-height: 1.3em;
+     padding-top:1em;
+     padding-left:8em;
+     color: #333;
+     max-width:1200px;
+     margin: auto;
+     margin-bottom: 20px;}
+
+h1 {font-family: cursive;
+   color:rgb(236, 62, 62);
+   font-size:100px;
+   text-align: center;
+   margin: 30px;
+   margin-bottom:70px;}
+
+img {display:block;
+    margin-bottom: 30px;
+    margin:auto;
+    border-radius: 17px;}
+
+.descriptions {font-size:40px;
+              color:rgb(190, 56, 56);
+              text-align: center;
+              margin-top: 70px;
+              margin-bottom:30px;}
+
+p {line-height: 1.3em;
+  color:#444;
+  font-size:24px;
+  margin-bottom:20px;}
+
+.ingredients {font-size:35px;
+              color:rgb(197, 74, 74);
+              margin-bottom:25px;}
+
+.steps, .enjoy {font-size:33px;
+       color:rgb(173, 66, 66);
+       margin-bottom:30px;}
+
+ul {line-height: 1.3em;
+    color:#444;
+    font-size:24px;
+    margin-bottom:30px;
+    list-style-type:circle;}
+
+li {font-size: 26px;
+    margin-bottom: 15px;}
+
+a {color: #008080;
+   margin-bottom:100px;
+   font-weight: bold;
+   font-size: 1.5em;
+   text-decoration:none}
+
+a:hover {color: #d2691e;
+        text-decoration:underline;
+        }
+
