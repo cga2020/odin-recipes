@@ -1,0 +1,62 @@
+body {background-color:#fff3e0;
+     font-family:sans-serif, Arial, Helvetica;
+     line-height:1.3em;
+     padding-top: 1em;
+     padding-left: 8em;
+     max-width: 1000px;
+     margin: auto;
+     margin-bottom: 20px;}
+
+h1 {text-align: center;
+   font-size:50px;
+   color:rgb(107, 34, 34);
+   margin-bottom:30px;}
+
+.description {text-align: center;
+             color:#444;
+            font-size:30px;
+            margin: 30px;}
+
+.ingredients {color:#333;
+              font-size:25px;
+              margin-top:30px;
+              margin-bottom: 30px;}
+
+.instructions {color:#6b3c3c;
+               font-size:23px;
+               margin: auto;}
+
+.method {color:#4d2a2a;
+        font-size:21px;
+        margin: auto;}
+
+.enjoy {color: rgb(165, 50, 50);
+       font-size: 27px;
+       margin:auto;}
+
+p {line-height:1.3em;
+   color:rgb(51, 49, 49);
+   font-size:24px;
+   margin-bottom: 30px;}
+
+ul {list-style-type:circle;
+    line-height:1.3em;
+   font-size:20px;
+   padding-left: 20px;
+   padding-right: 20px;}
+
+ol {font-size:20px;
+    line-height:1.3em;
+    padding-left: 20px;
+    padding-right: 20px;}
+
+li {margin-bottom: 10px;}
+
+a { color :#008080;
+  margin-bottom: 100px;
+  font-weight: bold;
+  font-size:1.5em;
+  text-decoration: none;}
+
+a:hover {color: #d2691e;
+        text-decoration: underline;}
