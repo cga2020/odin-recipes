@@ -23,6 +23,19 @@ img {display:block;
     margin:auto;
     border-radius:17px;}
 
+p, ul, li {font-size:22px;}
+
+p {line-height: 1.3em;
+   color:#444;
+   margin-bottom:20px;}
+
+ul {line-height:1.3em;
+   color:#444;
+   margin-bottom: 10px;
+   list-style-type:circle;}
+
+li {margin-bottom: 10px;}
+
 a {color: #008080;
   margin-bottom: 30px;
   font-weight: bold;
